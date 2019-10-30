@@ -1,0 +1,12 @@
+Для запуска тестов необходимо установить библиотеки через терминал:
+pip install requests
+pip install json
+pip install pytest
+
+Вспомогательную библиотеку для тестирования api:
+pip install swapi
+
+Тесты запускаются через run "pytest" в среде разработки
+Через терминал: перейти в текущий каталог с проектом, py.test Swapi_tests.py
+
+Запуск проверялся в среде Pycharm, Python Inrerpreter: Python 3.7, виртуальное окружение не настраивалось.
